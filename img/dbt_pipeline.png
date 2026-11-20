@@ -1,0 +1,1178 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    
+              <meta name="csrf-param" content="authenticity_token">
+              <meta name="csrf-token" content="5y_0ycNdyLd2dEgfKfvafWKu0bqvPAuYTGJOOGwDO1yigsrXzNYc56oYm2NeO2gN1-Xg1fZV3N_xI9mMTqpvlA">
+            
+    <title>
+      
+        Not Found (404)
+      
+    </title>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta property="og:type" content="website">
+<meta property="og:url" content="https://www.lukebarousse.com/pages/not_found">
+<meta name="twitter:card" content="summary_large_image">
+
+<meta property="og:title" content="Not Found (404)">
+<meta name="twitter:title" content="Not Found (404)">
+
+
+
+    
+      <link href="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2155500451/settings_images/e65008-70d-21a6-3a1-fe70f3a473d0_luke_Favicon.png?v=2" rel="shortcut icon" />
+    
+    <link rel="canonical" href="https://www.lukebarousse.com/pages/not_found" />
+
+    <!-- Google Fonts ====================================================== -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute(&#39;media&#39;);" type="text/css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic&amp;display=swap" />
+
+    <!-- Kajabi CSS ======================================================== -->
+    <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute(&#39;media&#39;);" type="text/css" href="https://kajabi-app-assets.kajabi-cdn.com/assets/core-bd7b26fa88233b0deec176501f76275fcd62a9785b79309a9e2b92fe02ba1903.css" />
+
+    
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute(&#39;media&#39;);" type="text/css" crossorigin="anonymous" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" />
+
+    <link rel="stylesheet" media="screen" href="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155500451/assets/styles.css?17447418186841578" />
+
+    <!-- Customer CSS ====================================================== -->
+    <!-- If you're using custom css that affects the first render of the page, replace async_style_link below with styesheet_tag -->
+    <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute(&#39;media&#39;);" type="text/css" href="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155500451/assets/overrides.css?17447418186841578" />
+    <style>
+  /* Custom CSS Added Via Theme Settings */
+  .underline--magical {
+  background-image: linear-gradient(120deg, #03B4E9 0%, #8fd3f4 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 0.2em;
+  background-position: 0 88%;
+  transition: background-size 0.25s ease-in;
+  &:hover {
+    background-size: 100% 88%;
+  }
+}
+.resume-course__image img {
+  content: url("https://storage.googleapis.com/gsearch_share/images/Resume_Course.png");
+}
+.start-course__image img {
+  content: url("https://storage.googleapis.com/gsearch_share/images/Start_Course.png");
+}
+
+
+.login-clarification-box {
+  border: 1px solid #444; /* Adjust border color */
+  padding: 15px;          /* Space inside the box */
+  margin-top: 20px;       /* Space above the box (below Forgot Password) */
+  border-radius: 5px;     /* Optional: slightly rounded corners */
+  background-color: rgba(255, 255, 255, 0.05); /* Optional: subtle background, adjust as needed */
+  text-align: left;      /* Align text inside the box to the left */
+}
+
+/*  The following added to clarify course login additions */
+.login-clarification-box p {
+  margin: 0;              /* Remove default paragraph margin */
+  padding: 0;             /* Remove default paragraph padding */
+  font-size: 0.9em;       /* Adjust font size as needed */
+  color: #ccc;            /* Adjust text color */
+  line-height: 1.5;       /* Adjust line spacing */
+}
+
+.login-clarification-box p strong {
+  color: #fff; /* Make "Please Note:" stand out more */
+}
+
+/* Added styles for the link */
+.login-clarification-box a {
+  color: #8ab4f8; /* Example link color - ADJUST TO MATCH YOUR SITE'S LINKS */
+  text-decoration: underline;
+  font-weight: bold; /* Optional: make link bold */
+}
+
+.login-clarification-box a:hover {
+  color: #a7c9ff; /* Example link hover color - ADJUST TO MATCH YOUR SITE */
+  text-decoration: none;
+}
+</style>
+
+    <!-- Kajabi Editor Only CSS ============================================ -->
+    
+
+    <!-- Header hook ======================================================= -->
+    <link rel="apple-touch-icon" href="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2147850146/images/ceb0bec-0242-08c-ba78-ef40be137cfc_luke_Favicon.png" /><script type="text/javascript">
+  var Kajabi = Kajabi || {};
+</script>
+<script type="text/javascript">
+  Kajabi.currentSiteUser = {
+    "id" : "-1",
+    "type" : "Guest",
+    "contactId" : "",
+  };
+  
+</script>
+<script type="text/javascript">
+  Kajabi.theme = {
+    activeThemeName: "Test_P1_Draft",
+    previewThemeId: null,
+    editor: false
+  };
+</script>
+<meta name="turbo-prefetch" content="false">
+<!-- The following is for syntax highlighting in the code cells of problems -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-okaidia.min.css" /><script async src="https://www.googletagmanager.com/gtag/js?id=G-XFC10FK0QR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XFC10FK0QR');
+</script>
+<style type="text/css">
+  #editor-overlay {
+    display: none;
+    border-color: #2E91FC;
+    position: absolute;
+    background-color: rgba(46,145,252,0.05);
+    border-style: dashed;
+    border-width: 3px;
+    border-radius: 3px;
+    pointer-events: none;
+    cursor: pointer;
+    z-index: 10000000000;
+  }
+  .editor-overlay-button {
+    color: white;
+    background: #2E91FC;
+    border-radius: 2px;
+    font-size: 13px;
+    margin-inline-start: -24px;
+    margin-block-start: -12px;
+    padding-block: 3px;
+    padding-inline: 10px;
+    text-transform:uppercase;
+    font-weight:bold;
+    letter-spacing:1.5px;
+
+    left: 50%;
+    top: 50%;
+    position: absolute;
+  }
+</style>
+<script src="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/track_analytics-8iWywK4v.js" crossorigin="anonymous" type="module"></script><link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/stimulus-CZA9Too6.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/stimulus--Eii2h7P.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/preload-helper-B_-z8C_4.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/whenShown-SFRXe116.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/trackProductAnalytics-BZym1Qqc.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/shell_constants-DHxT1-9e.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/track_product_analytics-BZA2gK5B.js" as="script" crossorigin="anonymous">      <script type="text/javascript">
+        if (typeof (window.rudderanalytics) === "undefined") {
+          !function(){"use strict";window.RudderSnippetVersion="3.0.3";var sdkBaseUrl="https://cdn.rudderlabs.com/v3"
+          ;var sdkName="rsa.min.js";var asyncScript=true;window.rudderAnalyticsBuildType="legacy",window.rudderanalytics=[]
+          ;var e=["setDefaultInstanceKey","load","ready","page","track","identify","alias","group","reset","setAnonymousId","startSession","endSession","consent"]
+          ;for(var n=0;n<e.length;n++){var t=e[n];window.rudderanalytics[t]=function(e){return function(){
+          window.rudderanalytics.push([e].concat(Array.prototype.slice.call(arguments)))}}(t)}try{
+          new Function('return import("")'),window.rudderAnalyticsBuildType="modern"}catch(a){}
+          if(window.rudderAnalyticsMount=function(){
+          "undefined"==typeof globalThis&&(Object.defineProperty(Object.prototype,"__globalThis_magic__",{get:function get(){
+          return this},configurable:true}),__globalThis_magic__.globalThis=__globalThis_magic__,
+          delete Object.prototype.__globalThis_magic__);var e=document.createElement("script")
+          ;e.src="".concat(sdkBaseUrl,"/").concat(window.rudderAnalyticsBuildType,"/").concat(sdkName),e.async=asyncScript,
+          document.head?document.head.appendChild(e):document.body.appendChild(e)
+          },"undefined"==typeof Promise||"undefined"==typeof globalThis){var d=document.createElement("script")
+          ;d.src="https://polyfill-fastly.io/v3/polyfill.min.js?version=3.111.0&features=Symbol%2CPromise&callback=rudderAnalyticsMount",
+          d.async=asyncScript,document.head?document.head.appendChild(d):document.body.appendChild(d)}else{
+          window.rudderAnalyticsMount()}window.rudderanalytics.load("2apYBMHHHWpiGqicceKmzPebApa","https://rs-dp.kajabi.com",{})}();
+        }
+      </script>
+      <script type="text/javascript">
+        if (typeof (window.rudderanalytics) !== "undefined") {
+          rudderanalytics.page({"account_id":"2147836842","site_id":"2147850146"});
+        }
+      </script>
+      <script type="text/javascript">
+        if (typeof (window.rudderanalytics) !== "undefined") {
+          (function () {
+            function AnalyticsClickHandler (event) {
+              const targetEl = event.target.closest('a') || event.target.closest('button');
+              if (targetEl) {
+                rudderanalytics.track('Site Link Clicked', Object.assign(
+                  {"account_id":"2147836842","site_id":"2147850146"},
+                  {
+                    link_text: targetEl.textContent.trim(),
+                    link_href: targetEl.href,
+                    tag_name: targetEl.tagName,
+                  }
+                ));
+              }
+            };
+            document.addEventListener('click', AnalyticsClickHandler);
+          })();
+        }
+      </script>
+<meta name='site_locale' content='en'><style type="text/css">
+  /* Font Awesome 4 */
+  .fa.fa-twitter{
+    font-family:sans-serif;
+  }
+  .fa.fa-twitter::before{
+    content:"𝕏";
+    font-size:1.2em;
+  }
+
+  /* Font Awesome 5 */
+  .fab.fa-twitter{
+    font-family:sans-serif;
+  }
+  .fab.fa-twitter::before{
+    content:"𝕏";
+    font-size:1.2em;
+  }
+</style>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@kajabi-ui/styles@2.0.1/dist/kajabi_products/kajabi_products.css" />
+<script type="module" src="https://cdn.jsdelivr.net/npm/@pine-ds/core@5.0.1/dist/pine-core/pine-core.esm.js"></script>
+<script nomodule src="https://cdn.jsdelivr.net/npm/@pine-ds/core@5.0.1/dist/pine-core/index.esm.js"></script>
+<script src="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/submission_error-N8MBUmbX.js" crossorigin="anonymous" type="module" defer="defer"></script><script>fetch("https://app.kajabi.com/health_check/ping",{mode:"no-cors"})</script>
+
+  </head>
+  <style>
+  body {
+    
+      
+        background-color: #0a0913;
+      
+    
+  }
+</style>
+  <body class="background-dark">
+    <main>
+      
+<div id="section-header" data-section-id="header">
+
+<style>
+  /* Default Header Styles */
+  .header {
+    
+      background-color: #0a0912;
+    
+    font-size: 18px;
+  }
+  .header a,
+  .header a.link-list__link,
+  .header a.link-list__link:hover,
+  .header a.social-icons__icon,
+  .header .user__login a,
+  .header .dropdown__item a,
+  .header .dropdown__trigger:hover {
+    color: #ffffff;
+  }
+  .header .dropdown__trigger {
+    color: #ffffff !important;
+  }
+  /* Mobile Header Styles */
+  @media (max-width: 767px) {
+    .header {
+      
+        background-color: #0a0912;
+      
+      font-size: 16px;
+    }
+    
+      .header a,
+      .header a.link-list__link,
+      .header a.social-icons__icon,
+      .header .dropdown__item a,
+      .header .user__login a,
+      .header a.link-list__link:hover,
+      .header .dropdown__trigger:hover {
+        color: #ffffff;
+      }
+      .header .dropdown__trigger {
+        color: #ffffff !important;
+      }
+    
+    .header .hamburger__slices .hamburger__slice {
+      
+        background-color: #fefeff;
+      
+    }
+    
+      .header a.link-list__link, .dropdown__item a, .header__content--mobile {
+        text-align: right;
+      }
+    
+    .header--overlay .header__content--mobile  {
+      padding-bottom: 20px;
+    }
+  }
+  /* Sticky Styles */
+  
+</style>
+
+<div class="hidden">
+  
+    
+  
+    
+  
+    
+  
+  
+  
+  
+</div>
+
+<header class="header header--overlay    background-dark header--close-on-scroll" kjb-settings-id="sections_header_settings_background_color">
+  <div class="hello-bars">
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  
+    <div class="header__wrap">
+      <div class="header__content header__content--desktop background-dark">
+        <div class="container header__container media justify-content-left">
+          
+            
+                <style>
+@media (min-width: 768px) {
+  #block-1555988494486 {
+    text-align: left;
+  }
+} 
+</style>
+
+<div id="block-1555988494486" class="header__block header__block--logo header__block--show header__switch-content stretch" kjb-settings-id="sections_header_blocks_1555988494486_settings_stretch">
+  
+
+<style>
+  #block-1555988494486 {
+    line-height: 1;
+  }
+  #block-1555988494486 .logo__image {
+    display: block;
+    width: 75px;
+  }
+  #block-1555988494486 .logo__text {
+    color: ;
+  }
+</style>
+
+<a class="logo" href="/">
+  
+    
+      <img loading="auto" class="logo__image" alt="Header Logo" kjb-settings-id="sections_header_blocks_1555988494486_settings_logo" src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2155500451/settings_images/5427cba-70a-e5b-a3e1-1e034e0c82e_Signature_White.png" />
+    
+  
+</a>
+</div>
+              
+          
+            
+                <style>
+@media (min-width: 768px) {
+  #block-1737846055635 {
+    text-align: right;
+  }
+} 
+</style>
+
+<div id="block-1737846055635" class="header__block header__switch-content header__block--menu stretch" kjb-settings-id="sections_header_blocks_1737846055635_settings_stretch">
+  <div class="link-list justify-content-right" kjb-settings-id="sections_header_blocks_1737846055635_settings_menu">
+  
+    <a class="link-list__link" href="https://www.lukebarousse.com/" >Home</a>
+  
+    <a class="link-list__link" href="https://www.lukebarousse.com/courses" >Courses</a>
+  
+    <a class="link-list__link" href="https://www.lukebarousse.com/crash-courses" >Free Crash Courses</a>
+  
+</div>
+</div>
+              
+          
+            
+                <style>
+@media (min-width: 768px) {
+  #block-1700670010848 {
+    text-align: left;
+  }
+} 
+</style>
+
+<div id="block-1700670010848" class="header__block header__switch-content header__block--user " kjb-settings-id="sections_header_blocks_1700670010848_settings_stretch">
+  <style>
+  /* Dropdown menu colors for desktop */
+  @media (min-width: 768px) {
+    #block-1700670010848 .dropdown__menu {
+      background: #FFFFFF;
+      color: #595959;
+    }
+    #block-1700670010848 .dropdown__item a,
+    #block-1700670010848 {
+      color: #595959;
+    }
+  }
+  /* Mobile menu text alignment */
+  @media (max-width: 767px) {
+    #block-1700670010848 .dropdown__item a,
+    #block-1700670010848 .user__login a {
+      text-align: right;
+    }
+  }
+</style>
+
+<div class="user" kjb-settings-id="sections_header_blocks_1700670010848_settings_language_login">
+  
+    <span class="user__login" kjb-settings-id="language_login"><a href="/login">Log In</a></span>
+  
+</div>
+</div>
+              
+          
+          
+            <div class="hamburger hidden--desktop" kjb-settings-id="sections_header_settings_hamburger_color">
+              <div class="hamburger__slices">
+                <div class="hamburger__slice hamburger--slice-1"></div>
+                <div class="hamburger__slice hamburger--slice-2"></div>
+                <div class="hamburger__slice hamburger--slice-3"></div>
+                <div class="hamburger__slice hamburger--slice-4"></div>
+              </div>
+            </div>
+          
+        </div>
+      </div>
+      <div class="header__content header__content--mobile">
+        <div class="header__switch-content header__spacer"></div>
+      </div>
+    </div>
+  
+</header>
+
+</div>
+<div data-dynamic-sections=404><div id="section-1593045036549" data-section-id="1593045036549"><style>
+  
+  #section-1593045036549 .section__overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-color: #0a0912;
+  }
+  #section-1593045036549 .sizer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  #section-1593045036549 .container {
+    max-width: calc(1260px + 10px + 10px);
+    padding-right: 10px;
+    padding-left: 10px;
+    
+  }
+  #section-1593045036549 .row {
+    
+  }
+  #section-1593045036549 .container--full {
+    width: 100%;
+    max-width: calc(100% + 10px + 10px);
+  }
+  @media (min-width: 768px) {
+    
+    #section-1593045036549 .sizer {
+      padding-top: 100px;
+      padding-bottom: 100px;
+    }
+    #section-1593045036549 .container {
+      max-width: calc(1260px + 40px + 40px);
+      padding-right: 40px;
+      padding-left: 40px;
+    }
+    #section-1593045036549 .container--full {
+      max-width: calc(100% + 40px + 40px);
+    }
+  }
+  
+  
+</style>
+
+<section kjb-settings-id="sections_1593045036549_settings_background_color"
+  class="section
+  
+  
+   background-dark "
+  data-reveal-event=""
+  data-reveal-offset=""
+  data-reveal-units="seconds">
+  <div class="sizer sizer--full">
+    
+    <div class="section__overlay"></div>
+    <div class="container ">
+      <div class="row align-items-center justify-content-center">
+        
+          
+
+
+
+
+<style>
+  /* flush setting */
+  
+  
+  /* margin settings */
+  #block-1700686245359, [data-slick-id="1700686245359"] {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+  }
+  #block-1700686245359 .block, [data-slick-id="1700686245359"] .block {
+    /* border settings */
+    border: 4px  black;
+    border-radius: 0px;
+    
+
+    /* background color */
+    
+      background-color: #0a0912;
+    
+    /* default padding for mobile */
+    
+      padding: 20px;
+    
+    
+      padding: 20px;
+    
+    
+      
+    
+    /* mobile padding overrides */
+    
+      padding: 0;
+    
+    
+      padding-top: 0px;
+    
+    
+      padding-right: 0px;
+    
+    
+      padding-bottom: 0px;
+    
+    
+      padding-left: 0px;
+    
+  }
+
+  @media (min-width: 768px) {
+    /* desktop margin settings */
+    #block-1700686245359, [data-slick-id="1700686245359"] {
+      margin-top: -100px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px;
+    }
+    #block-1700686245359 .block, [data-slick-id="1700686245359"] .block {
+      /* default padding for desktop  */
+      
+        padding: 30px;
+      
+      
+        
+      
+      /* desktop padding overrides */
+      
+        padding: 0;
+      
+      
+      
+        padding-right: 0px;
+      
+      
+        padding-bottom: 0px;
+      
+      
+        padding-left: 0px;
+      
+    }
+  }
+  /* mobile text align */
+  @media (max-width: 767px) {
+    #block-1700686245359, [data-slick-id="1700686245359"] {
+      text-align: ;
+    }
+  }
+</style>
+
+
+<div
+  id="block-1700686245359"
+  class="
+  block-type--image
+  text-
+  col-10
+  
+  
+  
+     animated 
+  
+  
+  "
+  
+  data-reveal-event=""
+  data-reveal-offset=""
+  data-reveal-units="seconds"
+  
+    kjb-settings-id="sections_1593045036549_blocks_1700686245359_settings_width"
+    >
+  <div class="block
+    box-shadow-
+     background-dark"
+    
+      data-aos="zoom-in"
+      data-aos-delay="0"
+      data-aos-duration="0"
+    
+    >
+    
+    
+
+<style>
+  #block-1700686245359 .block,
+  [data-slick-id="1700686245359"] .block {
+    display: flex;
+    justify-content: flex-start;
+  }
+  #block-1700686245359 .image,
+  [data-slick-id="1700686245359"] .image {
+    width: 100%;
+    overflow: hidden;
+    
+    border-radius: 4px;
+    
+  }
+  #block-1700686245359 .image__image,
+  [data-slick-id="1700686245359"] .image__image {
+    width: 100%;
+    
+  }
+  #block-1700686245359 .image__overlay,
+  [data-slick-id="1700686245359"] .image__overlay {
+    
+      opacity: 0;
+    
+    background-color: #fff;
+    border-radius: 4px;
+    
+  }
+  
+  #block-1700686245359 .image__overlay-text,
+  [data-slick-id="1700686245359"] .image__overlay-text {
+    color:  !important;
+  }
+  @media (min-width: 768px) {
+    #block-1700686245359 .block,
+    [data-slick-id="1700686245359"] .block {
+        display: flex;
+        justify-content: flex-start;
+    }
+    #block-1700686245359 .image__overlay,
+    [data-slick-id="1700686245359"] .image__overlay {
+      
+        opacity: 0;
+      
+    }
+    #block-1700686245359 .image__overlay:hover {
+      opacity: 1;
+    }
+  }
+  
+</style>
+
+<div class="image">
+  
+    
+        <img loading="auto" class="image__image" alt="" kjb-settings-id="sections_1593045036549_blocks_1700686245359_settings_image" src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2155500451/settings_images/8bfc51-fad0-ae0c-41f1-6b31a126f700_luke_404_edited.png" />
+    
+    
+  
+</div>
+  </div>
+</div>
+
+        
+          
+
+
+
+
+<style>
+  /* flush setting */
+  
+  
+  /* margin settings */
+  #block-1700686677904, [data-slick-id="1700686677904"] {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+  }
+  #block-1700686677904 .block, [data-slick-id="1700686677904"] .block {
+    /* border settings */
+    border: 4px none black;
+    border-radius: 4px;
+    
+
+    /* background color */
+    
+    /* default padding for mobile */
+    
+    
+    
+    /* mobile padding overrides */
+    
+    
+    
+    
+    
+  }
+
+  @media (min-width: 768px) {
+    /* desktop margin settings */
+    #block-1700686677904, [data-slick-id="1700686677904"] {
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px;
+    }
+    #block-1700686677904 .block, [data-slick-id="1700686677904"] .block {
+      /* default padding for desktop  */
+      
+      
+      /* desktop padding overrides */
+      
+      
+      
+      
+      
+    }
+  }
+  /* mobile text align */
+  @media (max-width: 767px) {
+    #block-1700686677904, [data-slick-id="1700686677904"] {
+      text-align: center;
+    }
+  }
+</style>
+
+
+<div
+  id="block-1700686677904"
+  class="
+  block-type--text
+  text-center
+  col-9
+  
+  
+  
+    
+  
+  
+  "
+  
+  data-reveal-event=""
+  data-reveal-offset=""
+  data-reveal-units="seconds"
+  
+    kjb-settings-id="sections_1593045036549_blocks_1700686677904_settings_width"
+    >
+  <div class="block
+    box-shadow-none
+    "
+    
+      data-aos="none"
+      data-aos-delay="0"
+      data-aos-duration="0"
+    
+    >
+    
+    <style>
+  
+  #block-1577982541036_0 .btn {
+    margin-top: 1rem;
+  }
+</style>
+
+<h2>Oops!<span> </span>Data Nerd Page Not Found</h2>
+
+    
+
+
+
+
+
+
+<style>
+  #block-1700686677904 .btn,
+  [data-slick-id="1700686677904"] .block .btn {
+    color: #ffffff;
+    border-color: #04b4e9;
+    border-radius: 5px;
+    background-color: #04b4e9;
+  }
+  #block-1700686677904 .btn--outline,
+  [data-slick-id="1700686677904"] .block .btn--outline {
+    background: transparent;
+    color: #04b4e9;
+  }
+</style>
+
+<a class="btn btn--solid btn--small btn--auto" href="https://www.lukebarousse.com"   kjb-settings-id="sections_1593045036549_blocks_1700686677904_settings_btn_background_color" role="button">
+  
+    TAKE ME HOME
+  
+</a>
+  
+  </div>
+</div>
+
+        
+          
+
+
+
+
+<style>
+  /* flush setting */
+  
+  
+  /* margin settings */
+  #block-1736544465471, [data-slick-id="1736544465471"] {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+  }
+  #block-1736544465471 .block, [data-slick-id="1736544465471"] .block {
+    /* border settings */
+    border: 4px  black;
+    border-radius: 4px;
+    
+
+    /* background color */
+    
+    /* default padding for mobile */
+    
+    
+      padding: 20px;
+    
+    
+      
+        padding: 20px;
+      
+    
+    /* mobile padding overrides */
+    
+    
+      padding-top: 0px;
+    
+    
+      padding-right: 0px;
+    
+    
+      padding-bottom: 0px;
+    
+    
+      padding-left: 0px;
+    
+  }
+
+  @media (min-width: 768px) {
+    /* desktop margin settings */
+    #block-1736544465471, [data-slick-id="1736544465471"] {
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px;
+    }
+    #block-1736544465471 .block, [data-slick-id="1736544465471"] .block {
+      /* default padding for desktop  */
+      
+      
+        
+          padding: 30px;
+        
+      
+      /* desktop padding overrides */
+      
+      
+        padding-top: 0px;
+      
+      
+        padding-right: 0px;
+      
+      
+        padding-bottom: 0px;
+      
+      
+        padding-left: 0px;
+      
+    }
+  }
+  /* mobile text align */
+  @media (max-width: 767px) {
+    #block-1736544465471, [data-slick-id="1736544465471"] {
+      text-align: left;
+    }
+  }
+</style>
+
+
+<div
+  id="block-1736544465471"
+  class="
+  block-type--text
+  text-left
+  col-12
+  
+  
+  
+    
+  
+  
+  "
+  
+  data-reveal-event=""
+  data-reveal-offset=""
+  data-reveal-units="seconds"
+  
+    kjb-settings-id="sections_1593045036549_blocks_1736544465471_settings_width"
+    >
+  <div class="block
+    box-shadow-
+    "
+    
+      data-aos="none"
+      data-aos-delay="0"
+      data-aos-duration="0"
+    
+    >
+    
+    <style>
+  
+  #block-1577982541036_0 .btn {
+    margin-top: 1rem;
+  }
+</style>
+
+<p style="text-align: center;"><sup>Don't think you should have been directed here?<a href="https://forms.gle/uYnPm8u7K1EV9Kny8" target="_blank" rel="noopener noreferrer"> <span style="text-decoration: underline; color: #3498db;"><strong>Help me troubleshoot it</strong></span></a></sup></p>
+
+  </div>
+</div>
+
+        
+      </div>
+    </div>
+  </div>
+</section>
+</div></div>
+<div id="section-footer" data-section-id="footer">
+  <style>
+    #section-footer {
+      -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+      flex-grow: 1;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+    }
+    .footer {
+      -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+      flex-grow: 1;
+    }
+  </style>
+
+<style>
+  .footer {
+    background-color: #0a0913;
+  }
+  .footer, .footer__block {
+    font-size: 16px;
+    color: ;
+  }
+  .footer .logo__text {
+    color: ;
+  }
+  .footer .link-list__links {
+    width: 100%;
+  }
+  .footer a.link-list__link {
+    color: ;
+  }
+  .footer .link-list__link:hover {
+    color: ;
+  }
+  .copyright {
+    color: ;
+  }
+  @media (min-width: 768px) {
+    .footer, .footer__block {
+      font-size: 18px;
+    }
+  }
+  .powered-by a {
+    color: #7f8ea1 !important;
+  }
+  
+</style>
+
+<footer class="footer   background-dark  " kjb-settings-id="sections_footer_settings_background_color">
+  <div class="footer__content">
+    <div class="container footer__container media">
+      
+        
+            <div id="block-1607371535264" class="footer__block ">
+  <style>
+  .social-icons--1607371535264 .social-icons__icons {
+    justify-content: 
+  }
+  .social-icons--1607371535264 .social-icons__icon {
+    color: #ffffff !important;
+  }
+  .social-icons--1607371535264.social-icons--round .social-icons__icon {
+    background-color: #1000c6;
+  }
+  .social-icons--1607371535264.social-icons--square .social-icons__icon {
+    background-color: #1000c6;
+  }
+  
+  @media (min-width: 768px) {
+    .social-icons--1607371535264 .social-icons__icons {
+      justify-content: 
+    }
+  }
+</style>
+<div class="social-icons social-icons-- social-icons--1607371535264" kjb-settings-id="sections_footer_blocks_1607371535264_settings_social_icons_text_color">
+  <div class="social-icons__icons">
+    
+
+  <a class="social-icons__icon social-icons__icon--" href="https://twitter.com/LukeBarousse"  target="_blank" rel="noopener"  kjb-settings-id="sections_footer_blocks_1607371535264_settings_social_icon_link_twitter">
+    <i class="fab fa-twitter"></i>
+  </a>
+
+
+  <a class="social-icons__icon social-icons__icon--" href="https://www.instagram.com/lukebarousse"  target="_blank" rel="noopener"  kjb-settings-id="sections_footer_blocks_1607371535264_settings_social_icon_link_instagram">
+    <i class="fab fa-instagram"></i>
+  </a>
+
+
+  <a class="social-icons__icon social-icons__icon--" href="https://www.youtube.com/lukebarousse"  target="_blank" rel="noopener"  kjb-settings-id="sections_footer_blocks_1607371535264_settings_social_icon_link_youtube">
+    <i class="fab fa-youtube"></i>
+  </a>
+
+
+
+
+
+
+  <a class="social-icons__icon social-icons__icon--" href="https://www.linkedin.com/in/luke-b/"  target="_blank" rel="noopener"  kjb-settings-id="sections_footer_blocks_1607371535264_settings_social_icon_link_linkedin">
+    <i class="fab fa-linkedin-in"></i>
+  </a>
+
+
+
+
+
+
+
+
+  <a class="social-icons__icon social-icons__icon--" href="https://www.tiktok.com/@lukebarousse"  target="_blank" rel="noopener"  kjb-settings-id="sections_footer_blocks_1607371535264_settings_social_icon_link_tiktok">
+    <i class="fab fa-tiktok"></i>
+  </a>
+
+
+
+
+  </div>
+</div>
+</div>
+        
+      
+        
+            <div id="block-1555988525205" class="footer__block ">
+  <span class="copyright" kjb-settings-id="sections_footer_blocks_1555988525205_settings_copyright" role="presentation">
+  &copy; 2026 LUKE BAROUSSE
+</span>
+</div>
+          
+      
+    </div>
+    
+  </div>
+
+</footer>
+
+</div>
+
+
+
+    </main>
+    <!-- Javascripts ======================================================= -->
+<script src="https://kajabi-app-assets.kajabi-cdn.com/assets/encore_core-e5f31b854b506b1641bddcbddf74deced44ad598934c3dab538f9de76d17788a.js"></script>
+<script src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155500451/assets/scripts.js?17447418186841578"></script>
+
+
+
+<!-- Customer JS ======================================================= -->
+<script>
+  /* Custom JS Added Via Theme Settings */
+  document.addEventListener('DOMContentLoaded', function() {
+  // Find the container holding the link ('Forgot Password?' or 'Log In')
+  var linkDiv = document.querySelector('.auth__content .auth__link');
+  // Find the main page heading element
+  var pageTitleElement = document.querySelector('.auth__content h1.auth__title');
+  
+  // Proceed only if we found the link container and the title element
+  if (linkDiv && pageTitleElement) {
+    
+    var pageTitleText = pageTitleElement.textContent.trim(); // Get the text content of the H1
+    var message = ''; // Initialize an empty message variable
+    
+    // --- Define Message based on Page Title ---
+    
+    if (pageTitleText === 'Recover Password') {
+      // MESSAGE FOR THE RECOVER PASSWORD PAGE (with spam note)
+      message = '<p><strong>Reset email may land in spam!</strong> After submitting, please check your spam or junk folders if you don\'t see the email in your inbox.</p>';
+      
+    } else if (pageTitleText === 'Login' || pageTitleText === 'Course Login') { 
+      // MESSAGE FOR THE LOGIN PAGE (your supporter clarification)
+      message = '<p><strong>Trying to Log In?</strong> This is for supporters with access to a purchased course (your login is created automatically). Want to support my content? <a href="https://lukebarousse.com/courses" target="_blank" rel="noopener noreferrer">View available courses here</a>.</p>';
+    }
+    // You could add more 'else if' blocks here for other pages if needed
+    
+    // --- Create and Insert the Box ONLY if a message was defined ---
+    if (message) {
+      var clarificationBox = document.createElement('div');
+      clarificationBox.className = 'login-clarification-box'; // Use the same class for consistent styling
+      clarificationBox.innerHTML = message; // Set the determined message
+      
+      // Insert the box after the link div (same placement as before)
+      linkDiv.insertAdjacentElement('afterend', clarificationBox);
+    }
+    
+  } else {
+    // Log an error if key elements weren't found (for troubleshooting)
+    console.log('Kajabi Clarification Script: Could not find required elements (.auth__content .auth__link or h1.auth__title).');
+  }
+});
+</script>
+  </body>
+</html>
